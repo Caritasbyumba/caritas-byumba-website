@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "62ea32e63e93926b5af16186"
+  },
+  "name": "Government of Rwanda",
+  "description": {
+    "en": "Caritas Byumba works with different government institutions  like Minisante in Health field and different districts which are Gicumbi,Musanze,Gatsibo and Nyagatare.",
+    "fr": "Caritas Byumba travaille avec différentes institutions gouvernementales comme Minisante dans le domaine de la santé et différents districts qui sont Gicumbi, Musanze, Gatsibo et Nyagatare.",
+    "rw": "Caritas Byumba ikorana n'inzego za leta zitandukanye nka Minisante mu rwego rw'ubuzima n'uturere dutandukanye aritwo Gicumbi, Musanze, Gatsibo na Nyagatare."
+  },
+  "quote": {
+    "en": "Caritas Byumba works with different government institutions  like Minisante in Health field and different districts which are Gicumbi,Musanze,Gatsibo and Nyagatare.",
+    "fr": "Caritas Byumba travaille avec différentes institutions gouvernementales comme Minisante dans le domaine de la santé et différents districts qui sont Gicumbi, Musanze, Gatsibo et Nyagatare.",
+    "rw": "Caritas Byumba ikorana n'inzego za leta zitandukanye nka Minisante mu rwego rw'ubuzima n'uturere dutandukanye aritwo Gicumbi, Musanze, Gatsibo na Nyagatare."
+  },
+  "image": "fb14157d-d60e-4fb2-a266-a7cbbd3161c8-gicumbi_district.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659515622393"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663223590165"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea34673e93926b5af16189"
+  },
+  "name": "RCS(Rwanda Correction Service)",
+  "description": {
+    "en": "Rwanda Correctional Service (RCS) was the result of merging the former National Prisons Service and the Executive Secretariat of National Committee of Community Services as an alternative penalty to imprisonment.\r\nRCS has transformed into an institution that rehabilitates inmates into more responsible citizens upon release .We have increasingly become income generating rather than a fund consuming body.",
+    "fr": "Le Service correctionnel du Rwanda (RCS) est le résultat de la fusion de l'ancien Service national des prisons et du Secrétariat exécutif du Comité national des services communautaires en tant que peine alternative à l'emprisonnement.\r\nLe RCS s'est transformé en une institution qui réhabilite les détenus en citoyens plus responsables à leur libération. Nous sommes devenus de plus en plus un organisme générateur de revenus plutôt qu'un organisme consommateur de fonds.",
+    "rw": "Urwego rushinzwe Imfungwa n'abagororwa mu Rwanda (RCS) Rwaturutse ku guhuza icyahoze ari Serivisi z’amagereza n’Ubunyamabanga Nyobozi bwa Komite y’igihugu ishinzwe ibikorwa rusange bijyanye n’igihano nsimburagifungo.\r\nRCS yahindutse ikigo cyita ku mfungwa ibafasha kuvamo  abaturage bazi gufata inshingano bamaze gufungurwa .Twagiye turushaho kwinjiza amafaranga aho kuba ikigo Kiyasohora gusa."
+  },
+  "quote": {
+    "en": "Rwanda Correctional Service (RCS) was the result of merging the former National Prisons Service and the Executive Secretariat of National Committee of Community Services as an alternative penalty to imprisonment.\r\nRCS has transformed into an institution that rehabilitates inmates into more responsible citizens upon release .We have increasingly become income generating rather than a fund consuming body.",
+    "fr": "Le Service correctionnel du Rwanda (RCS) est le résultat de la fusion de l'ancien Service national des prisons et du Secrétariat exécutif du Comité national des services communautaires en tant que peine alternative à l'emprisonnement.\r\nLe RCS s'est transformé en une institution qui réhabilite les détenus en citoyens plus responsables à leur libération. Nous sommes devenus de plus en plus un organisme générateur de revenus plutôt qu'un organisme consommateur de fonds.",
+    "rw": "rushinzwe Imfungwa n'abagororwa mu Rwanda (RCS) Rwaturutse ku guhuza icyahoze ari Serivisi z’amagereza n’Ubunyamabanga Nyobozi bwa Komite y’igihugu ishinzwe ibikorwa rusange bijyanye n’igihano nsimburagifungo.\r\nRCS yahindutse ikigo cyita ku mfungwa ibafasha kuvamo  abaturage bazi gufata inshingano bamaze gufungurwa .Twagiye turushaho kwinjiza amafaranga aho kuba ikigo Kiyasohora gusa."
+  },
+  "image": "a8ed2e2c-be8b-46f3-8501-a457bdaedca4-RCS-LOGO.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659516007195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663229180489"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea35ac3e93926b5af1618c"
+  },
+  "name": "World Vision",
+  "description": {
+    "en": "We are a global Christian humanitarian organization. We partner with children, families and their communities to help them reach their full potential by tackling the causes of poverty and injustice in Rwanda.",
+    "fr": "Nous sommes une organisation humanitaire chrétienne mondiale. Nous travaillons en partenariat avec les enfants, les familles et leurs communautés pour les aider à atteindre leur plein potentiel en s'attaquant aux causes de la pauvreté et de l'injustice au Rwanda.",
+    "rw": "Turi umuryango w’abakristu ku isi. Dufatanya n’abana, imiryango n’abaturage kugira ngo tubafashe kugera ku bushobozi bwabo bwuzuye mu guhangana n’ibitera ubukene n’akarengane mu Rwanda."
+  },
+  "quote": {
+    "en": "We are a global Christian humanitarian organization. We partner with children, families and their communities to help them reach their full potential by tackling the causes of poverty and injustice in Rwanda.",
+    "fr": "Nous sommes une organisation humanitaire chrétienne mondiale. Nous travaillons en partenariat avec les enfants, les familles et leurs communautés pour les aider à atteindre leur plein potentiel en s'attaquant aux causes de la pauvreté et de l'injustice au Rwanda.",
+    "rw": "Turi umuryango w’abakristu ku isi. Dufatanya n’abana, imiryango n’abaturage kugira ngo tubafashe kugera ku bushobozi bwabo bwuzuye mu guhangana n’ibitera ubukene n’akarengane mu Rwanda."
+  },
+  "image": "432be59e-8d12-4ccb-a8b9-95768d0281c6-world_vision.svg",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659516332280"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663228028868"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea36a13e93926b5af1618f"
+  },
+  "name": "NUDOR",
+  "description": {
+    "en": "NUDOR is a civil society organization established in 2010 by eight national organisations of persons with disabilities. NUDOR exists to strengthen the voice of the disability movement in Rwanda. Together NUDOR and its 15 members are working so that persons with disabilities can enjoy the equal rights to which they are entitled.",
+    "fr": "NUDOR est une organisation de la société civile créée en 2010 par huit organisations nationales de personnes handicapées. NUDOR existe pour renforcer la voix du mouvement des personnes handicapées au Rwanda. Ensemble, NUDOR et ses 15 membres travaillent pour que les personnes handicapées puissent jouir de l'égalité des droits auxquels elles ont droit.",
+    "rw": "NUDOR ni umuryango utegamiye kuri leta washinzwe mu 2010 n’imiryango umunani yo kurwego rw'igihugu y’abafite ubumuga. NUDOR iriho kugirango ishimangire ijwi ry'abafite ubumuga mu Rwanda. Hamwe na NUDOR n'abanyamuryango bayo 15 barimo gukora kugirango ababana n'ubumuga bashobore kubona uburenganzira bungana bafite."
+  },
+  "quote": {
+    "en": "NUDOR is a civil society organization established in 2010 by eight national organisations of persons with disabilities. NUDOR exists to strengthen the voice of the disability movement in Rwanda. Together NUDOR and its 15 members are working so that persons with disabilities can enjoy the equal rights to which they are entitled.",
+    "fr": "NUDOR est une organisation de la société civile créée en 2010 par huit organisations nationales de personnes handicapées. NUDOR existe pour renforcer la voix du mouvement des personnes handicapées au Rwanda. Ensemble, NUDOR et ses 15 membres travaillent pour que les personnes handicapées puissent jouir de l'égalité des droits auxquels elles ont droit.",
+    "rw": "NUDOR ni umuryango utegamiye kuri leta washinzwe mu 2010 n’imiryango umunani yo kurwego rw'igihugu y’abafite ubumuga. NUDOR iriho kugirango ishimangire ijwi ry'abafite ubumuga mu Rwanda. Hamwe na NUDOR n'abanyamuryango bayo 15 barimo gukora kugirango ababana n'ubumuga bashobore kubona uburenganzira bungana bafite."
+  },
+  "image": "cbce14a1-4470-473f-9f51-bf5c8f52877a-nudor.webp",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659516577402"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663227521989"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea3c623e93926b5af16192"
+  },
+  "name": "CRS(Catholic Relief Services)",
+  "description": {
+    "en": "CRS works to strengthen vulnerable households with programming that includes agriculture and food security, health and nutrition, economic strengthening and peace building.",
+    "fr": "CRS s'efforce de renforcer les ménages vulnérables avec des programmes qui incluent l'agriculture et la sécurité alimentaire, la santé et la nutrition, le renforcement économique et la consolidation de la paix.",
+    "rw": "CRS Yibanda kungo zitishoboye  muri gahunda zirimo ubuhinzi n’umutekano w’ibiribwa, ubuzima n’imirire, gushimangira ubukungu no kubaka amahoro."
+  },
+  "quote": {
+    "en": "CRS works to strengthen vulnerable households with programming that includes agriculture and food security, health and nutrition, economic strengthening and peace building.",
+    "fr": "CRS s'efforce de renforcer les ménages vulnérables avec des programmes qui incluent l'agriculture et la sécurité alimentaire, la santé et la nutrition, le renforcement économique et la consolidation de la paix.",
+    "rw": "CRS Yibanda kungo zitishoboye  muri gahunda zirimo ubuhinzi n’umutekano w’ibiribwa, ubuzima n’imirire, gushimangira ubukungu no kubaka amahoro."
+  },
+  "image": "36aedfbb-7045-4743-9cd6-bc9da19ebf3c-Catholiv-Relief-Services.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659518050443"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663228174564"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea402f3e93926b5af16195"
+  },
+  "name": "Caritas Rwanda",
+  "description": {
+    "en": "It provides special care to vulnerable people without distinction. We believe in dignity, solidarity and equality that are reflections of the social mission and core values of the Catholic Church.",
+    "fr": "Il Apporte une attention particulière aux personnes vulnérables sans distinction. Nous croyons en la dignité, la solidarité et l'égalité qui reflètent la mission sociale et les valeurs fondamentales de l'Église catholique.",
+    "rw": "Yita kubantu batishoboye  ntakuvangura . Twizera icyubahiro, ubufatanye n'uburinganire byerekana ubutumwa bw'imibereho n'indangagaciro shingiro za Kiliziya Gatolika"
+  },
+  "quote": {
+    "en": "It provides special care to vulnerable people without distinction. We believe in dignity, solidarity and equality that are reflections of the social mission and core values of the Catholic Church.",
+    "fr": "Il Apporte une attention particulière aux personnes vulnérables sans distinction. Nous croyons en la dignité, la solidarité et l'égalité qui reflètent la mission sociale et les valeurs fondamentales de l'Église catholique.",
+    "rw": "Yita kubantu batishoboye  ntakuvangura . Twizera icyubahiro, ubufatanye n'uburinganire byerekana ubutumwa bw'imibereho n'indangagaciro shingiro za Kiliziya Gatolika"
+  },
+  "image": "380d1ef2-bce8-45f7-b49e-0ffb637ce4dd-logo-Caritas-Rwanda.gif",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659519023630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663224530296"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322f138e0477755781d367e"
+  },
+  "name": "SECODEV",
+  "description": {
+    "en": "Secodev is a non-governmental organisation with charitable status whose mission is to fight and extinguish poverty in the south.",
+    "fr": "Secodev est une organisation non gouvernementale à statut caritatif dont la mission est de combattre et d'éradiquer la pauvreté dans le sud.",
+    "rw": "Secodev ni umuryango utegamiye kuri leta ukora ibikorwa by'ubugiraneza ufite intego yo kurwanya no kuzimya ubukene mu majyepfo."
+  },
+  "quote": {
+    "en": "Secodev is a non-governmental organisation with charitable status whose mission is to fight and extinguish poverty in the south.",
+    "fr": "Secodev est une organisation non gouvernementale à statut caritatif dont la mission est de combattre et d'éradiquer la pauvreté dans le sud.",
+    "rw": "Secodev ni umuryango utegamiye kuri leta ukora ibikorwa by'ubugiraneza ufite intego yo kurwanya no kuzimya ubukene mu majyepfo."
+  },
+  "image": "0c341392-e4e6-4305-9f81-8babd002bbcd-secodev1.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663234360091"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663234360091"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322f2cce0477755781d3684"
+  },
+  "name": "OXFAM",
+  "description": {
+    "en": "Oxfam is a global movement of people who are fighting inequality to end poverty and injustice.",
+    "fr": "Oxfam est un mouvement mondial de personnes qui luttent contre les inégalités pour mettre fin à la pauvreté et à l'injustice.",
+    "rw": "Oxfam ni umuryango mpuzamahanga Urwanya ubusumbane kugirango barandure ubukene n'akarengane."
+  },
+  "quote": {
+    "en": "Across regions, from the local to the global, we work with people to bring change that lasts. Our work is grounded in the commitment to the universality of human rights.",
+    "fr": "Dans toutes les régions, du local au mondial, nous travaillons avec les gens pour apporter un changement durable. Notre travail est fondé sur l'engagement envers l'universalité des droits de l'homme.",
+    "rw": "Hirya no hino mu turere, kuva mu karere kugeza kw'isi yose, dukorana n'abantu Kugirango haze  impinduka zirambye. Ibikorwa byacu bishingiye ku kwiyemeza guharanira uburenganzira bwa muntu."
+  },
+  "image": "40e96da7-0d2e-4aa8-b754-301bae8b4364-OXFAM.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663234764956"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663234764956"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632333e6e0477755781d3691"
+  },
+  "name": "TFT Board",
+  "description": {
+    "en": "Thought Field Therapy (TFT) is a fringe psychological treatment developed by American psychologist Roger Callahan. Its proponents say that it can heal a variety of mental and physical ailments through specialized \"tapping\" with the fingers at meridian points on the upper body and hands.",
+    "fr": "Thought Field Therapy (TFT) est un traitement psychologique marginal développé par le psychologue américain Roger Callahan. Ses partisans disent qu'il peut guérir une variété de maux mentaux et physiques grâce à des \"tapotements\" spécialisés avec les doigts aux points méridiens du haut du corps et des mains.",
+    "rw": "Thought Field Therapy (TFT) ni ubuvuzi bwo mu mutwe bwakozwe na Roger Callahan , Inzobere kubijyanye n'ubuzima bwo mumutwe. Ababishyigikiye bavuga ko ishobora gukiza indwara zitandukanye zo mu mutwe no ku mubiri binyuze mu \"gukubita\" ukoresheje intoki  ku mubiri wo hejuru no ku biganza."
+  },
+  "quote": {
+    "en": "Thought Field Therapy (TFT) is a fringe psychological treatment developed by American psychologist Roger Callahan. Its proponents say that it can heal a variety of mental and physical ailments through specialized \"tapping\" with the fingers at meridian points on the upper body and hands.",
+    "fr": "Thought Field Therapy (TFT) est un traitement psychologique marginal développé par le psychologue américain Roger Callahan. Ses partisans disent qu'il peut guérir une variété de maux mentaux et physiques grâce à des \"tapotements\" spécialisés avec les doigts aux points méridiens du haut du corps et des mains.",
+    "rw": "Thought Field Therapy (TFT) ni ubuvuzi bwo mu mutwe bwakozwe na Roger Callahan , Inzobere kubijyanye n'ubuzima bwo mumutwe. Ababishyigikiye bavuga ko ishobora gukiza indwara zitandukanye zo mu mutwe no ku mubiri binyuze mu \"gukubita\" ukoresheje intoki  ku mubiri wo hejuru no ku biganza."
+  },
+  "image": "37bfc6e3-89be-4d68-bf74-ba63c65b7562-ATFTF LOGO-new.jpg",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663251430246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663251430246"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63233792e0477755781d3697"
+  },
+  "name": "CARITAS Genève ",
+  "description": {
+    "en": "The Caritas Geneva association fights against poverty and exclusion by providing concrete assistance to the most disadvantaged, without any distinction of religion, nationality or status.",
+    "fr": "L’association Caritas Genève lutte contre la pauvreté et l’exclusion en apportant une aide concrète aux plus défavorisés, sans aucune distinction de confession, de nationalité et de statut.",
+    "rw": "Ishyirahamwe rya Caritas Geneve rirwanya ubukene no guhezwa, Ikanatanga ubufasha bufatika ku batishoboye, batagendeye kw'idini, ubwenegihugu cyangwa urwego umuntu ariho."
+  },
+  "quote": {
+    "en": "The Caritas Geneva association fights against poverty and exclusion by providing concrete assistance to the most disadvantaged, without any distinction of religion, nationality or status.",
+    "fr": "L’association Caritas Genève lutte contre la pauvreté et l’exclusion en apportant une aide concrète aux plus défavorisés, sans aucune distinction de confession, de nationalité et de statut.",
+    "rw": "Ishyirahamwe rya Caritas Geneve rirwanya ubukene no guhezwa, Ikanatanga ubufasha bufatika ku batishoboye, batagendeye kw'idini, ubwenegihugu cyangwa urwego umuntu ariho."
+  },
+  "image": "3efb9f19-9a60-4dc2-a184-e095708fe97a-Caritas Geneve.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663252370277"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663252370277"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63233927e0477755781d36a1"
+  },
+  "name": "Caritas Internationale Belgique",
+  "description": {
+    "en": "Caritas International helps victims of wars, violence, disasters and poverty, in their own country or on the run, in collaboration with its local, national and international networks.",
+    "fr": "Caritas International vient en aide aux victimes de guerres, violences, de catastrophes et de la pauvreté, dans leur propre pays ou en fuite, en collaboration avec ses réseaux locaux, nationaux et internationaux.",
+    "rw": "Caritas International ifasha abagizweho inagaruka n’intambara, urugomo, ibiza n’ubukene, mu bihugu byabo cyangwa bahunze, ku bufatanye n’inzego z’ibanze, iz'igihugu ndetse n’amahanga."
+  },
+  "quote": {
+    "en": "Caritas International helps victims of wars, violence, disasters and poverty, in their own country or on the run, in collaboration with its local, national and international networks.",
+    "fr": "Caritas International vient en aide aux victimes de guerres, violences, de catastrophes et de la pauvreté, dans leur propre pays ou en fuite, en collaboration avec ses réseaux locaux, nationaux et internationaux.",
+    "rw": "Caritas International ifasha abagizweho inagaruka n’intambara, urugomo, ibiza n’ubukene, mu bihugu byabo cyangwa bahunze, ku bufatanye n’inzego z’ibanze, iz'igihugu ndetse n’amahanga."
+  },
+  "image": "b1910e6d-b265-4c47-b706-bba3b65005cf-Caritas Belgique.png",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663252775136"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663252775136"
+    }
+  },
+  "__v": 0
+}]

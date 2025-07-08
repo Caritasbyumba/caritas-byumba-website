@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "632344d7569f0daa29b7d152"
+  },
+  "name": {
+    "en": "Health Department",
+    "fr": "Département de la santé",
+    "rw": "Ishami ry'ubuzima"
+  },
+  "description": {
+    "en": "<p>To participate in improving the welfare of the people through the following aspects:</p><ul><li>Medicine</li><li>Prevent and protect against disease</li><li>Natural birth control</li></ul><p><strong>Objectives</strong></p><ol><li>Increasing the use of Health Services in Catholic Church clinics</li><li>To encourage people to participate in the use of natural methods of birth control.</li><li>Educating the public on how to prevent and care for infectious and non-infectious diseases</li><li>Improving the nutrition of pregnant mothers and taking care of the development of the child under five years of age</li></ol>",
+    "fr": "<p>Participer à l'amélioration du bien-être des populations à travers les aspects suivants :</p><ul><li>Médecine</li><li>Prévenir et protéger des maladies</li><li>Contrôle naturel des naissances</li></ul><p><strong>Objectifs</strong></p><ol><li>Accroître l'utilisation des services de santé dans les cliniques de l'Église catholique</li><li>Encourager les gens à participer à l'utilisation de méthodes naturelles de contrôle des naissances.</li><li>Éduquer le public sur la façon de prévenir et de soigner les maladies infectieuses et non infectieuses</li><li>Améliorer la nutrition des femmes enceintes et prendre soin du développement de l'enfant de moins de cinq ans</li></ol>",
+    "rw": "<p>Kugira uruhare mu kuzamura imibereho myiza yabaturage binyuze mu ngingo zikurikira:</p><ul><li>Ubuvuzi</li><li>Gukumira no kurinda indwara</li><li>Guteganya imbyaro ku buryo bwa kamere</li></ul><p><strong>Intego</strong></p><ol><li>Kongera imikoreshereze ya Serivisi z'ubuzima mu mavuriro ya Kiliziya Gatolika</li><li>Gukangurira abaturage kwitabira gukoresha uburyo bwa kamere mu guteganya imbyaro.</li><li>Kwigisha abaturage uburyo bwo kwirinda no kwita ku ndwara zanduza n'izitanduza</li><li>Kuzamura imirire yababyeyi batwite no kwita ku mikurire y'umwana uri munsi y'imyaka itanu</li></ol>"
+  },
+  "objectives": {
+    "en": "<ol><li>Increasing the use of Health Services in Catholic Church clinics</li><li>To encourage people to participate in the use of natural methods of birth control.</li><li>Educating the public on how to prevent and care for infectious and non-infectious diseases</li><li>Improving the nutrition of pregnant mothers and taking care of the development of the child under five years of age</li></ol>",
+    "fr": "<ol><li>Accroître l'utilisation des services de santé dans les cliniques de l'Église catholique</li><li>Encourager les gens à participer à l'utilisation de méthodes naturelles de contrôle des naissances.</li><li>Éduquer le public sur la façon de prévenir et de soigner les maladies infectieuses et non infectieuses</li><li>Améliorer la nutrition des femmes enceintes et prendre soin du développement de l'enfant de moins de cinq ans</li></ol>",
+    "rw": "<ol><li>Kongera imikoreshereze ya Serivisi z'ubuzima mu mavuriro ya Kiliziya Gatolika</li><li>Gukangurira abaturage kwitabira gukoresha uburyo bwa kamere mu guteganya imbyaro.</li><li>Kwigisha abaturage uburyo bwo kwirinda no kwita ku ndwara zanduza n'izitanduza</li><li>Kuzamura imirire yababyeyi batwite no kwita ku mikurire y'umwana uri munsi y'imyaka itanu</li></ol>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663255767693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666786165221"
+    }
+  },
+  "__v": 0,
+  "smallDescription": {
+    "en": "<p>To participate in improving the welfare of the people through the following aspects:</p>",
+    "fr": "<p>Participer à l'amélioration du bien-être des populations à travers les aspects suivants :</p>",
+    "rw": "<p>Kugira uruhare mu kuzamura imibereho myiza yabaturage binyuze mu ngingo zikurikira:</p>"
+  },
+  "image": "fd1d1745-41f9-4717-8b0f-f21edd486e09-SANTE BANNER1234.jpg"
+},{
+  "_id": {
+    "$oid": "632af0874fa90be87e0ff733"
+  },
+  "name": {
+    "en": "Integral Development Department",
+    "fr": "Département du développement intégré",
+    "rw": "Ishami rishinzwe iterambere rusange"
+  },
+  "description": {
+    "en": "<ul><li>Development is based on sustainable agriculture</li><li>Empowering the youth to develop themselves</li><li>Helping ex-inmates to have a place in the Rwandan community</li></ul>",
+    "fr": "<ul><li>Le développement repose sur une agriculture durable</li><li>Donner aux jeunes les moyens de se développer</li><li>Aider les ex-détenus à avoir une place dans la communauté Rwandaise</li></ul>",
+    "rw": "<ul><li>Iterambere rishingiye ku buhinzi bubungabunga ibidukikije</li><li>Kongerera urubyiruko ubushobozi mu kwiteza imbere</li><li>Gufasha abahoze ari abagororwa kwisanga mu muryango Nyarwanda</li></ul>"
+  },
+  "objectives": {
+    "en": "<p><br></p>",
+    "fr": "<p><br></p>",
+    "rw": "<p><br></p>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663758471577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666785856799"
+    }
+  },
+  "__v": 0,
+  "smallDescription": {
+    "en": "<p>To participate in improving the welfare of the people through the following aspects:</p>",
+    "fr": "<p>Participer à l'amélioration du bien-être des populations à travers les aspects suivants :</p>",
+    "rw": "<p>Kugira uruhare mu kuzamura imibereho myiza yabaturage binyuze mu ngingo zikurikira:</p>"
+  },
+  "image": "42ebf9cc-e201-40bd-a382-3a2f8e8e7b02-SANTE BANNER1234.jpg"
+},{
+  "_id": {
+    "$oid": "632af30846a4efbc58ec5709"
+  },
+  "name": {
+    "en": "Social, Education, and Human Security Department",
+    "fr": "Département social, de l'éducation et de la sécurité humaine",
+    "rw": "Ishami rishinzwe imibereho myiza, uburezi, n’umutekano w’abantu"
+  },
+  "description": {
+    "en": "<ul><li>To improve the welfare of the people</li><li>Empowerment of beneficiaries</li><li>Combating disasters by helping those affected (first aid)</li><li>Contribute to education for all</li><li>Teaching and motivating people about values</li></ul>",
+    "fr": "<ul><li>Pour améliorer le bien-être de la population</li><li>Autonomisation des bénéficiaires</li><li>Lutter contre les catastrophes en aidant les sinistrés (premiers secours)</li><li>Contribuer à l'éducation pour tous</li><li>Enseigner et motiver les gens sur les valeurs</li></ul>",
+    "rw": "<ul><li>Guteza imbere imibereho myiza y'abaturage</li><li>Kongera ubushobozi bw'abagenerwabikorwa</li><li>Kurwanya ibiza mugufasha abo byagizeho ingaruka(ubutabazi bw'ibanze)</li><li>Kugira uruhare muburezi budaheza kandi bwa bose</li><li>Kwigisha no gushishikariza abantu indangagaciro</li></ul>"
+  },
+  "objectives": {
+    "en": "<p><br></p>",
+    "fr": "<p><br></p>",
+    "rw": "<p><br></p>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663759112673"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666785880440"
+    }
+  },
+  "__v": 0,
+  "smallDescription": {
+    "en": "<p>To participate in improving the welfare of the people through the following aspects:</p>",
+    "fr": "<p>Participer à l'amélioration du bien-être des populations à travers les aspects suivants :</p>",
+    "rw": "<p>Kugira uruhare mu kuzamura imibereho myiza yabaturage binyuze mu ngingo zikurikira:</p>"
+  },
+  "image": "a726e635-c28e-4620-93e2-2c86b6c18d68-SANTE BANNER1234.jpg"
+}]

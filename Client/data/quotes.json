@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62ea7517e704bfe5c9388676"
+  },
+  "name": "Rev, Father NZABONIMANA Augustin",
+  "role": {
+    "en": "Director of Caritas Byumba ",
+    "fr": "Directeur de Caritas Byumba et du Bureau Diocésain des Projets et des Partenariats",
+    "rw": "Umuyobozi wa Caritas Byumba na Biro ya Diyosezi ishinzwe imishinga nubufatanye"
+  },
+  "profile": "e27f56da-52a1-4525-a517-59aa0289e894-IMG_1986.jpg",
+  "quote": {
+    "en": "This platform has been conceived to more clarify who we are, what we do, how we do it, where we work, our core values and our intervention domains so that everyone who is interested in integral human development be welcomed to partner with us to achieve a society with socio-economic transformation without any discrimination , to build the holistic development of the human person which covering all aspects of its life : social,economic,political,cultural,personal and spiritual, and to promote the dignity of the human person,equality between every person and the common good of all people in the community.",
+    "fr": "Cette plateforme a été conçue pour clarifier davantage qui nous sommes, ce que nous faisons, comment nous le faisons, où nous travaillons, nos valeurs fondamentales et nos domaines d'intervention afin que tous ceux qui s'intéressent au développement humain intégral soient invités à s'associer à nous pour atteindre une société en transformation socio-économique sans aucune discrimination, pour construire le développement holistique de la personne humaine qui couvre tous les aspects de sa vie : social, économique, politique, culturel, personnel et spirituel, et promouvoir la dignité de la personne humaine, l'égalité entre chaque personne et le bien commun de tous les membres de la communauté.",
+    "rw": "Uru rubuga rwatekerejweho kugirango turusheho gusobanura abo turibo, icyo dukora, uko tubikora, aho dukorera, indangagaciro shingiro zacu hamwe ninzego zacu  kugirango buriwese ushishikajwe n'iterambere ryibanze ry'abantu  Afatanye natwe kugirango tugire umuryango ufite impinduka mu mibereho n’ubukungu nta vangura iryo ari ryo ryose, kubaka iterambere ryuzuye ry’umuntu rikubiyemo ibintu byose bigize ubuzima bwaryo: imibereho, ubukungu, politiki, umuco, umuntu ku giti cye ndetse no kuri Roho, no guteza imbere icyubahiro cy’umuntu, uburinganire hagati ya buri muntu n'inyungu rusange y'abantu bose muri sosiyete."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659532567570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666332818120"
+    }
+  },
+  "__v": 0,
+  "order": 2
+},{
+  "_id": {
+    "$oid": "62ea80f9697c161d4bbeda78"
+  },
+  "name": "Mgr Papias MUSENGAMANA",
+  "role": {
+    "en": "Most Reverend Bishop of the Diocese of Byumba",
+    "fr": "Évêque du diocèse de Byumba",
+    "rw": "Umwepiskopi wa Diyosezi ya Byumba"
+  },
+  "profile": "5722786b-723c-4b3b-9b70-b2655e3ad185-IMG_1875.jpg",
+  "quote": {
+    "en": "We empower Caritas Byumba to join  hands with the church in order to take care of poor and sick people, orphans and widows (ers). We need Caritas which rise people up economically for a sustainable development without any discrimination through progress and health projects. ",
+    "fr": "Nous épaulons la Caritas Byumba pour qu`il ait une convivialité avec l`église en prenant soin aux pauvres et aux malades, aux orphelins et aux veuves (veufs). Nous voulons la Caritas qui surélève le mode de vie de nos compatriotes économiquement pour un développement durable sans une discrimination à travers les projets de développement et de santé.  \r\n\r\n",
+    "rw": "Caritas dushaka ni ifasha kiliziya mu butumwa bwayo bwo kwita ku bakene,ku barwayi,ku mfubyi n’abapfakazi. Caritas ifasha kiliziya mu iterambere ridaheza kandi rirambye binyuze mu mishinga y’iterambere ndetse n’ubuzima."
+  },
+  "order": 1,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659535609555"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666332849604"
+    }
+  },
+  "__v": 0
+}]

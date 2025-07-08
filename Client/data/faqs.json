@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "62ec0beec128971a86279916"
+  },
+  "question": {
+    "en": "How do i ensure that my donation ends up in the right place?",
+    "fr": "Comment m'assurer que mon don se retrouve au bon endroit ?",
+    "rw": "Nigute namenya ko imfashanyo yanjye yageze ahabigenewe?"
+  },
+  "answer": {
+    "en": "After checkout, The donner receives an email from caritas Byumba saying that the donation was received successfully",
+    "fr": "Après vérification, le donateur reçoit un e-mail de caritas Byumba indiquant que le don a bien été reçu",
+    "rw": "Nyuma yo kugenzura, Umuterankunga yakira imeri ya caritas Byumba Ivuga ko inkunga yakiriwe neza.\n\n"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659636718902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664178888619"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec0bf0c128971a86279919"
+  },
+  "question": {
+    "en": "Is it possible to financially support one specific project?",
+    "fr": "Est-il possible de soutenir financièrement un projet en particulier ?",
+    "rw": "Birashoboka gutera inkunga y'amafaranga umushinga umwe wihariye?"
+  },
+  "answer": {
+    "en": "Yes, you can visit our Donate page and support  the particular project of your choice.",
+    "fr": "Oui, vous pouvez visiter notre page Faire un don et soutenir le projet particulier de votre choix",
+    "rw": "Nibyo, ushobora gusura ipaje yacu yo gufasha hanyuma ugashyigikira umushinga wihitiyemo."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659636720319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664174537110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec0bf2c128971a8627991c"
+  },
+  "question": {
+    "en": "Does Caritas Byumba only help christians?",
+    "fr": "Est-ce que Caritas Byumba aide uniquement les chrétiens ?",
+    "rw": "Ese Caritas Byumba ifasha abakristu gusa?"
+  },
+  "answer": {
+    "en": "No. We respond to the immediate and long-term development needs of communities, particularly the most vulnerable, regardless of ethnicity, political beliefs, gender or religion.",
+    "fr": "Non. Nous répondons aux besoins de développement immédiats et à long terme des communautés, en particulier les plus vulnérables, indépendamment de leur appartenance ethnique, de leurs convictions politiques, de leur sexe ou de leur religion.",
+    "rw": "Oya. dusubiza ibibazo byihutirwa kandi tunita kw'iterambere rirambye ry'abaturage, cyane cyane abatishoboye, tutitaye kumoko, imyizerere ya politiki, igitsina cyangwa idini."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659636722006"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664174074569"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "62d7ea7ba7ad62bd79f810b6"
+  },
+  "name": {
+    "en": "Get To know us",
+    "fr": "Apprendre a nous connaitre",
+    "rw": "Tumenye"
+  },
+  "description": {
+    "en": "We are the helping hand of the church - reaching out to the poor , vulnerable and excluded , to build a world based on justice and fraternal love.",
+    "fr": "Nous sommes la main secourable de l'Église - tendant la main aux pauvres, aux vulnérables et aux exclus, pour construire un monde fondé sur la justice et l'amour fraternel.",
+    "rw": "Turi abafasha ba kiliziya -kwegera abakene, abatishoboye ndetse n'abahejwe, kubaka isi ishingiye ku butabera n'urukundo rwa kivandimwe."
+  },
+  "vision": {
+    "en": "Achieve a society that provides human dignity in which every human being was created; the dignity deprived by discrimination, extreme poverty, sickness and injustice.",
+    "fr": "Réaliser une société qui assure la dignité humaine dans laquelle chaque être humain a été créé ; la dignité privée par la discrimination, l'extrême pauvreté, la maladie et l'injustice.r",
+    "rw": "Kugera kuri societe itanga icyubahiro cya muntu aho buri kiremwa muntu cyaremewe; icyubahiro cyambuwe ivangura, ubukene bukabije, indwara n'akarengane."
+  },
+  "mission": {
+    "en": "Assisting and providing special care to vulnerable people without distinction through its socio-welfare activities, health and development initiatives based on Charity while believing in dignity, solidarity and equality that are reflections of the social mission and core values of the Catholic Church.",
+    "fr": "Assister et prodiguer des soins particuliers aux personnes vulnérables sans distinction à travers ses activités socio-sociales, de santé et de développement basées sur la Charité tout en croyant en la dignité, la solidarité et l'égalité qui sont le reflet de la mission sociale et des valeurs fondamentales de l'Église catholique.",
+    "rw": "Gufasha no kwita cyane kubantu batishoboye nta tandukaniro binyuze mubikorwa by’imibereho myiza, imibereho myiza n’iterambere rishingiye ku buntu mu gihe twizera icyubahiro, ubufatanye n’uburinganire byerekana intego z’imibereho n’indangagaciro shingiro za Kiliziya Gatolika."
+  },
+  "objectives": {
+    "en": "Caritas byumba has the following objectives: To provide particular care to the vulnerable without any discrimination; To achieve an integral human being; To support beneficiaries' contribution; To promote partnership; To ensure quality service; To promote sustainable activities.",
+    "fr": "Caritas byumba a les objectifs suivants : Fournir des soins particulaires aux personnes vulnérables sans aucune discrimination ; Pour atteindre un être humain intégral; Soutenir la contribution des bénéficiaires ; Promouvoir le partenariat; Assurer un service de qualité; Pour promouvoir des activités durables.",
+    "rw": "Caritas byumba ifite intego zikurikira: Gutanga ubufasha butandukanye ku batishoboye nta vangura; Kugera ku kiremwa muntu; Gushyigikira umusanzu w'abagenerwabikorwa; Guteza imbere ubufatanye; Kugenzura serivisi nziza; Tp guteza imbere ibikorwa birambye."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658317435439"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663312248251"
+    }
+  },
+  "__v": 0
+}]

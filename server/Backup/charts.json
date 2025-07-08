@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6357ed140a52f418244da32c"
+  },
+  "title": {
+    "en": "Organizational Chart",
+    "fr": "Organigramme",
+    "rw": "Ubuyobozi"
+  },
+  "image": "0dbb4eda-7004-4c77-89e6-7903d833201a-caritas.PNG",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666706708440"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666784507536"
+    }
+  },
+  "__v": 0
+}]

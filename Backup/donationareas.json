@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "62f0e5779145fb1437710968"
+  },
+  "name": {
+    "en": "Support all Caritas projects",
+    "fr": "Soutenez tous les projets Caritas",
+    "rw": "Shyigikira imishinga yose ya Caritas"
+  },
+  "description": {
+    "en": "Caritas Byumba implements various projects to help people fight hunger",
+    "fr": "Caritas Byumba met en œuvre divers projets pour aider les gens à lutter contre la faim",
+    "rw": "Caritas Byumba ashyira mubikorwa imishinga itandukanye yo gufasha abantu kurwanya inzara"
+  },
+  "isActive": true,
+  "projects": [],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659954551958"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659954551958"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e6589145fb143771096b"
+  },
+  "name": {
+    "en": "Disaster relief",
+    "fr": "Secours aux sinistrés",
+    "rw": "Gutabara abagizweho ingaruka n'ibiza"
+  },
+  "description": {
+    "en": "1243 people were affected by the disaster",
+    "fr": "1243 personnes ont été touchées par la catastrophe",
+    "rw": "Abantu 1243 bagizweho ingaruka n'ibiza"
+  },
+  "isActive": true,
+  "projects": [
+    {
+      "$oid": "62d905c8ce01ec8a3ec33669"
+    }
+  ],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659954776472"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659954776472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e68e9145fb143771096e"
+  },
+  "name": {
+    "en": "Fight hunger",
+    "fr": "Combattre la faim",
+    "rw": "Kurwanya inzara"
+  },
+  "description": {
+    "en": "Caritas Byumba implements various projects to help people fight hunger",
+    "fr": "Caritas Byumba met en œuvre divers projets pour aider les gens à lutter contre la faim",
+    "rw": "Caritas Byumba ashyira mubikorwa imishinga itandukanye yo gufasha abantu kurwanya inzara"
+  },
+  "isActive": true,
+  "projects": [],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659954830380"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659954830380"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e6f99145fb1437710971"
+  },
+  "name": {
+    "en": "Help the homeless",
+    "fr": "Aidez les sans-abri",
+    "rw": "Fasha abadafite aho baba"
+  },
+  "description": {
+    "en": "Caritas Byumba implements various projects to help people fight hunger",
+    "fr": "Caritas Byumba met en œuvre divers projets pour aider les gens à lutter contre la faim",
+    "rw": "Caritas Byumba ashyira mubikorwa imishinga itandukanye yo gufasha abantu kurwanya inzara"
+  },
+  "isActive": true,
+  "projects": [],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659954937175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659954937175"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e71d9145fb1437710974"
+  },
+  "name": {
+    "en": "Help the poor",
+    "fr": "Aidez les pauvres",
+    "rw": "Fasha abakene"
+  },
+  "description": {
+    "en": "Caritas Byumba implements various projects to help people fight hunger",
+    "fr": "Caritas Byumba met en œuvre divers projets pour aider les gens à lutter contre la faim",
+    "rw": "Caritas Byumba ashyira mubikorwa imishinga itandukanye yo gufasha abantu kurwanya inzara"
+  },
+  "isActive": true,
+  "projects": [
+    {
+      "$oid": "62d905c8ce01ec8a3ec33669"
+    },
+    {
+      "$oid": "62d905fbce01ec8a3ec3366c"
+    }
+  ],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659954973894"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659954973894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e7469145fb1437710977"
+  },
+  "name": {
+    "en": "Help people with disability",
+    "fr": "Aider les personnes handicapées",
+    "rw": "Fasha ababana n'ubumuga"
+  },
+  "description": {
+    "en": "Caritas Byumba implements a project that helps Children and youth with Disability         ",
+    "fr": "Caritas Byumba met en œuvre un projet qui aide les enfants et les jeunes handicapés",
+    "rw": "\nCaritas Byumba Ishyira mubikorwa umushinga ufasha Abana n'urubyiruko bafite ubumuga."
+  },
+  "isActive": true,
+  "projects": [
+    {
+      "$oid": "62d905c8ce01ec8a3ec33669"
+    }
+  ],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659955014967"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663320291332"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f0e76e9145fb143771097a"
+  },
+  "name": {
+    "en": "Help the prisoners",
+    "fr": "Aidez les prisonniers",
+    "rw": "Fasha imfungwa"
+  },
+  "description": {
+    "en": "Caritas Byumba implements various projects to help Prisoners (Both inmates and Ex-inmates)",
+    "fr": "Caritas Byumba met en œuvre divers projets pour aider les détenus (détenus et ex-détenus)",
+    "rw": "Caritas Byumba Ishyira mubikorwa imishinga itandukanye yo gufasha Abagororwa (Abafunzwe n'abafunguwe)"
+  },
+  "isActive": true,
+  "projects": [
+    {
+      "$oid": "6321e897e0477755781d35fd"
+    }
+  ],
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659955054662"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663320032565"
+    }
+  },
+  "__v": 0
+}]

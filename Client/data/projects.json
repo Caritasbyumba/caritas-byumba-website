@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "62d905c8ce01ec8a3ec33669"
+  },
+  "name": "CHILD EMPOWERMENT PROGRAM",
+  "smallDescription": {
+    "en": "It ensures that children and young people with disabilities, coming from the poorest families, are accepted, protected, respected as equals and better integrated into Rwandan society.",
+    "fr": "Il assurer que les enfants et jeunes avec handicap,venant des familles les plus démunis,sont acceptés,protégés,respectés comme égaux et mieux insérés dans la societé rwandaise.\r\n\r\n",
+    "rw": "Yemeza ko abana n’urubyiruko bafite ubumuga, bakomoka mu miryango ikennye cyane, bakirwa, bakarindwa, bakubahwa nk’abandi kandi bagafatwa neza mu muryango Nyarwanda."
+  },
+  "description": {
+    "en": "<p>This project started in 2016 where it is works with Caritas Byumba. With it's Partner NUDOR , It is now benefiting 125 children with disabilities.NUDOR is a civil society organization established in 2010 by eight national organizations of persons with disabilities. NUDOR exists to strengthen the voice of the disability movement in Rwanda. Together NUDOR and its 15 members are working so that persons with disabilities can enjoy the equal rights to which they are entitled.&nbsp;&nbsp;</p>",
+    "fr": "<p>Ce projet a débuté en 2016 où il travaille avec Caritas Byumba. Avec son partenaire NUDOR, elle bénéficie aujourd'hui à 125 enfants handicapés.NUDOR est une organisation de la société civile créée en 2010 par huit organisations nationales de personnes handicapées. NUDOR existe pour renforcer la voix du mouvement des personnes handicapées au Rwanda. Ensemble, NUDOR et ses 15 membres travaillent pour que les personnes handicapées puissent jouir de l'égalité des droits auxquels elles ont droit.</p>",
+    "rw": "<p>Uyu mushinga watangiye mu 2016 aho ukorana na Caritas Byumba. Hamwe numufatanyabikorwa NUDOR, Ubu ifasha abana 125 bafite ubumuga.NUDOR ni umuryango utegamiye kuri leta washinzwe mu 2010 n'amashyirahamwe umunani y'abafite ubumuga. NUDOR iriho kugirango ishimangire ijwi ryabafite ubumuga mu Rwanda. Hamwe na NUDOR hamwe nabanyamuryango bayo 15 barimo gukora kugirango ababana nubumuga bashobore kubona uburenganzira bungana bafite.</p>"
+  },
+  "startDate": {
+    "$date": {
+      "$numberLong": "1451606400000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1672444800000"
+    }
+  },
+  "gallery": [
+    "0dd3876e-e2bb-41c3-b70f-b97b19d36ce8-IMG_4020.jpg",
+    "570283b7-a537-47f4-bb7d-b17a828984bd-JIPH Nyinawim parents.jpg",
+    "983fa0fb-2cc3-4eba-9c42-338f08115cbe-Media et Collegue.jpg"
+  ],
+  "isMain": true,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658389960907"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666253701234"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d905fbce01ec8a3ec3366c"
+  },
+  "name": "ASAP PROJECT ",
+  "smallDescription": {
+    "en": "ASAP/ support for the food sovereignty of the population of byumba (asap byumba) The project helps the community to be self-sufficient in food. Its general purpose is to help households, widows and single mothers to be self-sufficient in food.",
+    "fr": "ASAP/APPUI A LA SOUVERAINETE ALIMENTAIRE DE LA POPULATION  DE BYUMBA (ASAP BYUMBA) . Son objectif global est Contribuer à l'amélioration des conditions de vie des ménages des veuves et des filles mères à travers la souveraineté alimentaire",
+    "rw": "Umushinga ufasha abaturage kwihaza mubiribwa. Intego rusange yawo ni ugufasha Ingo , Abapfakazi n'abakobwa babyariye iwabo kwihaza mu biribwa."
+  },
+  "description": {
+    "en": "<p>The Food Sovereignty of Populations Strengthening Program is the result of cooperation between the Diocese of BYUMBA through the diocesan Caritas and SéCoDéV (Development Cooperation Department). Since 2008 a collaboration agreement of 4 years has been renewed three times in a project called RESAP: « Renforcement de la Souveraineté Alimentaire des Populations ou RESAP ». in which in these 3 phases, the objective assigned was to contribute to the improvement of the socio-economic conditions of the cooperatives'members in the parishes of Mutete, Nyinawimana, Rwamiko, Bungwe, Nyagahanga</p><p>and Byumba of the Catholic Diocese of Byumba.</p>",
+    "fr": "<p>Le Programme de renforcement de la souveraineté alimentaire des Populations est le fruit de la coopération entre le Diocèse de BYUMBA par le biais de la Caritas diocésaine et SéCoDéV (Service Coopération Développement). Depuis 2008 un accord de collaboration de 4 ans a été renouvelée trois fois au tour d’un projet intitulé RESAP : « Renforcement de la Souveraineté Alimentaire des Populations ou RESAP » dont dans ces 3 phases, l’objectif assigné était de contribuer à l’amélioration des conditions socio-économiques des membres des coopératives des paroisses de Mutete, Nyinawimana, Rwamiko, Bungwe, Nyagahanga et Byumba du Diocèse catholique de Byumba.</p>",
+    "rw": "<p>Gahunda yo kwihaza mu biribwa kwabaturage yaturutse kubufatanye hagati ya ubufatanye hagati ya Diyosezi ya BYUMBA binyuze muri caritas ya diyozesi na SéCoDéV (Service Coopération Développement).&nbsp;Kuva mu 2008 amasezerano y'ubufatanye ya Imyaka 4 yavuguruwe inshuro eshatu hafi yumushinga witwa RESAP muri ibyo byiciro 3, intego yashinzwe kwari ukugira uruhare mu kuzamura imibereho myiza y'abanyamuryango bamakoperative muri paruwasi ya Mutete, Nyinawimana, Rwamiko, Bungwe, Nyagahanga na Byumba ya Diyosezi Gatolika ya Byumba.</p>"
+  },
+  "startDate": {
+    "$date": {
+      "$numberLong": "1577836800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1703980800000"
+    }
+  },
+  "gallery": [
+    "61dbd635-a9c6-4af3-af43-bbe740146320-IMG_2023.jpg",
+    "0b1519c1-bc90-414a-ad18-988e1ac2cfea-IMG_2058.jpg",
+    "90f93804-ca9f-47fd-968c-aa8b5b185995-IMG_2064.jpg"
+  ],
+  "isMain": true,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658390011963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664440728040"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321e897e0477755781d35fd"
+  },
+  "name": "PGII",
+  "smallDescription": {
+    "en": "This project has the end aim of contributing to greater women and youth economic empowerment in pre-release and post release programme of 2,000 inmates and ex-inmates at least 70% among them are women and 30% of the beneficiaries are youth in 2 prisons located in Musanze and Nyagatare districts. ",
+    "fr": "Ce projet a pour objectif final de contribuer à une plus grande autonomisation économique des femmes et des jeunes dans le programme de pré-libération et de post-libération de 2 000 détenus et ex-détenus dont au moins 70% sont des femmes et 30% des bénéficiaires sont des jeunes dans 2 prisons situées dans les districts de Musanze et Nyagatare.",
+    "rw": "Uyu mushinga ufite intego Rusange yo gutanga umusanzu mu guteza imbere ubukungu bw’abagore n’urubyiruko igihe bagifunzwe baranafunguwe, mu bagenerwabikorwa 2000 , 70% muri bo ni abagore naho 30% by’abagenerwabikorwa ni urubyiruko ruri muri gereza 2 ziherereye mu turere twa Musanze na Nyagatare.\r\n"
+  },
+  "description": {
+    "en": "<p>Byumba Catholic Diocese realized that each and every family can be a key to the development of the whole society. However, conflicts of different kinds are noticed in many families and break its welfare. In this regard, it has created TFT / Psychosocial Diocesan Services (TFT) whose main activity relates to overcoming psychosocial issues among people and improving the livelihood of the people affected by psychosocial issues. It now works under Caritas of Byumba Catholic Diocese.&nbsp;&nbsp;&nbsp;</p><p>&nbsp;In this regard, Byumba Catholic Diocese is implementing jointly with Rwanda Correctional Services (RCS) the project known as “Rwanda Market Oriented programme phase 2 (PGII)” under OXFAM in Rwanda funds</p>",
+    "fr": "<p><br></p><p>Le diocèse catholique de Byumba a réalisé que chaque famille peut être la clé du développement de toute la société. Cependant, des conflits de différentes natures sont constatés dans de nombreuses familles et brisent son bien-être. À cet égard, il a créé TFT / Services psychosociaux diocésains (TFT) dont l'activité principale consiste à surmonter les problèmes psychosociaux des personnes et à améliorer les moyens de subsistance des personnes touchées par des problèmes psychosociaux. Il travaille maintenant sous la Caritas du diocèse catholique de Byumba.</p><p>À cet égard, le Diocèse Catholique de Byumba met en œuvre conjointement avec les Services Correctionnels du Rwanda (RCS) le projet connu sous le nom de \"Rwanda Market Oriented programme phase 2 (PGII)\" sous OXFAM dans les fonds du Rwanda.</p>",
+    "rw": "<p>Diyosezi Gatolika ya Byumba yamenye ko buri muryango ushobora kuba urufunguzo rw'iterambere rya Sosiyete. Nyamara, Amakimbirane atandukanye agaragara mu miryango myinshi kandi byangiza imibereho yayo. Ni muri urwo rwego, yashyizeho serivisi za TFT / Psychosocial Diocesan Services (TFT) Aho ibikorwa byayo bifitanye isano no gutsinda ibibazo by’imitekerereze y’abantu no kuzamura imibereho y’abaturage bahuye n’ibibazo by’imitekerereze. Ubu ikorera muri Caritas ya Diyosezi Gatolika ya Byumba.</p><p>Ni muri urwo rwego, Diyosezi Gatolika ya Byumba ishyira mu bikorwa ku bufatanye n’Urwego rushinzwe amagereza mu Rwanda (RCS) umushinga uzwi ku izina rya “Rwanda Market Orient program phase 2 (PGII)” Ku nkunga ya OXFAM.</p>"
+  },
+  "startDate": {
+    "$date": {
+      "$numberLong": "1663162293000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1663162293000"
+    }
+  },
+  "gallery": [
+    "f9ee406e-8017-410c-b000-07a35aa09d0e-IMG_20210916_105502_1.jpg"
+  ],
+  "isMain": true,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663166615655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666333340610"
+    }
+  },
+  "__v": 0
+}]

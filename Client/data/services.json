@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "63347010c6c6d164b0981560"
+  },
+  "name": "Centre IZERE",
+  "smallDescription": {
+    "en": "<p>We are striving to lodge &amp; feed children with disabilities. And to&nbsp;offer meal, school&nbsp;fees and tuition to more than 800 orphan children</p>",
+    "fr": "<p>Nous nous efforçons d'héberger et de nourrir les enfants handicapés. Et d'offrir repas, frais de scolarité et frais de scolarité à plus de 800 enfants orphelins</p>",
+    "rw": "<p>Turimo guharanira gucumbika no kugaburira abana bafite ubumuga. Kandi gutanga ifunguro, amafaranga yishuri hamwe nishuri kubana barenga 800 b'imfubyi</p>"
+  },
+  "challenges": {
+    "en": "<ul><li>Centre has no vehicles to help with its numerous activities, including transferring serious cases to district or city hospitals.</li><li>The service cannot pay tuition for students&nbsp;(Orphans and poor) to continue their education up to High school.</li><li>The service s struggling to pay the staff , provide basic needs such as food, clothing, &amp; school materials to the many children under our care because of its limited budget.</li></ul>",
+    "fr": "<ul><li>Le centre n'a pas de véhicules pour l'aider dans ses nombreuses activités, y compris le transfert des cas graves vers les hôpitaux de district ou de ville.</li><li>Le service ne peut pas payer les frais de scolarité des étudiants (orphelins et pauvres) pour poursuivre leurs études jusqu'au lycée.</li><li>Le service a du mal à payer le personnel, à répondre aux besoins de base tels que la nourriture, les vêtements et le matériel scolaire aux nombreux enfants dont nous avons la charge en raison de son budget limité.</li></ul>",
+    "rw": "<ul><li>Ikigo ntigifite imodoka zifasha mubikorwa byacyo byinshi, harimo kohereza ibibazo bikomeye mubitaro by'uturere cyangwa umujyi.</li><li>Serivisi ntishobora kurihira abanyeshuri (Imfubyi nabakene) kugirango bakomeze amashuri yabo yisumbuye.</li><li>Serivise irwana no guhemba abakozi, gutanga ibikenerwa byibanze nkibiryo, imyambaro, nibikoresho byishuri kubana benshi dushinzwe kubera ingengo yimari mike.</li></ul>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664380944784"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667290072686"
+    }
+  },
+  "__v": 0,
+  "image": "36dd1579-56bd-436a-87c2-2c3d727100ae-JIPH Nyinawim parents.jpg",
+  "department": {
+    "$oid": "632af30846a4efbc58ec5709"
+  }
+},{
+  "_id": {
+    "$oid": "63347457c6c6d164b0981566"
+  },
+  "name": "Bureau Sociale Urbain",
+  "smallDescription": {
+    "en": "<p>We welcome homeless people street children.</p><p>Elderly people without care are accommodated and supported at St Theresa's Home</p>",
+    "fr": "<p>Nous accueillons les sans-abris et les enfants des rues.</p><p>Les personnes âgées sans soins sont hébergées et accompagnées au Foyer Sainte-Thérèse</p>",
+    "rw": "<p>Twakira abantu badafite aho baba n'abana bo kumuhanda.</p><p>Abakuze badafite ababitaho baracumbikirwa kandi bagashyigikirwa murugo rwa St Theresa</p>"
+  },
+  "challenges": {
+    "en": "<ul><li>A large number of people to help with a low budget.</li><li>Small building to accommodate all beneficiaries</li><li>Lack of transport means</li></ul>",
+    "fr": "<ul><li>Un grand nombre de personnes pour aider avec un petit budget.</li><li>Petit bâtiment pour accueillir tous les bénéficiaires</li><li>manque de moyens de transport</li></ul>",
+    "rw": "<ul><li>Umubare munini wabantu bafasha hamwe na bije nkeya.</li><li>Inyubako nto yakira abagenerwabikorwa bose</li><li>Ntaburyo bwo gutwara abantu</li></ul>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664382039406"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667289998146"
+    }
+  },
+  "__v": 0,
+  "image": "22993441-1c38-4042-8785-d11919a52687-DSC_0045.jpg",
+  "department": {
+    "$oid": "632af30846a4efbc58ec5709"
+  }
+},{
+  "_id": {
+    "$oid": "633c432dfadc1bd18c6c6eb0"
+  },
+  "name": "URUGO RW'IMPUHWE",
+  "smallDescription": {
+    "en": "<p>It is located in Nyarurema Parish and its main mission is to welcome elderly people with HIV/AIDS.</p>",
+    "fr": "<p>Il est situé dans la paroisse de Nyarurema et sa mission principale est d'accueillir les personnes âgées atteintes du VIH/SIDA.</p>",
+    "rw": "<p>Urugo rw’impuhwe ruherereye muri Paroisse ya Nyarurera. Ubutumwa bw’ibanze rukora nukwakira ababana nubwandu bw’agakoko gatera sida.</p>"
+  },
+  "challenges": {
+    "en": "<ul><li>Lack of transport means</li></ul>",
+    "fr": "<ul><li>Manque de moyens de transport.</li></ul>",
+    "rw": "<ul><li>Ntaburyo bwo gutwara abantu</li></ul>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664893741213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667290082881"
+    }
+  },
+  "__v": 0,
+  "image": "65fe0b84-e292-493f-bb02-e7b712ed8409-IMG_0450.jpg",
+  "department": {
+    "$oid": "632af30846a4efbc58ec5709"
+  }
+}]

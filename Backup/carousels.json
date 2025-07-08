@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "62d7fc622712fcbb22fdb72f"
+  },
+  "title": {
+    "en": "Caritas  Byumba General Assembly ",
+    "fr": "Assemblée générale de la  caritas",
+    "rw": "Inteko rusange ya CARITAS"
+  },
+  "description": {
+    "en": "On 19th July 2022, caritas Byumba general assembly held a midterm evaluation with the aim of highlighting the activities achieved. The meeting took place at caritas byumba headquarter.\r\n",
+    "fr": "Le 19 juillet 2022, l'assemblée générale de Caritas Byumba a tenu une réunion d'évaluation à mi-parcours dans le but de vérifier les activités réalisées. La réunion a eu lieu au siège de caritas byumba.",
+    "rw": "Kuwa 19 Nyakanya, kuri Caritas Byumba habereye  Inama y'inteko rusange ya Caritas diocesaine ya Byumba. Igamije kumurika ibikorwa Caritas Byumba yagezeho. \r\n  "
+  },
+  "image": "bfa9a942-719c-483b-8e19-4bc4198392cc-IMG_1967 1_1.jpg",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658322018204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664891333663"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d7fce62712fcbb22fdb732"
+  },
+  "title": {
+    "en": "Gicumbi District Open day",
+    "fr": "journée portes ouvertes du district de Gicumbi",
+    "rw": "Imurikabikorwa ry'akarere ka Gicumbi"
+  },
+  "description": {
+    "en": "on 28/06/2022, caritas Byumba participated in the Open day organized by the Gicumbi district through the forum of  the regional development partners.",
+    "fr": "le 28/06/2022, caritas Byumba a participé à la journée portes ouvertes organisée par le district de Gicumbi à travers le forum des partenaires au développement régional.",
+    "rw": "Kuwa 28 Kamena 2022,Caritas Byumba yitabiriye Imurikabikorwa ryateguwe n'akarere ka Gicumbi binyuze mu ihuriro ry'abafatanyabikorwa b'Akarere mu iterambere."
+  },
+  "image": "32db28dc-1597-48cc-a42f-1cc2c297e2a4-IMG_9905_1.jpg",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658322150281"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664891419246"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63071e4aa7abfa4eab6c2167"
+  },
+  "title": {
+    "en": "Inauguration of the welding workshop At Nyagatare Prison",
+    "fr": "Inauguration de l'atelier de soudure à la prison de Nyagatare",
+    "rw": "Gutaha inzu y'ubusudizi kuri Gereza ya Nyagatare"
+  },
+  "description": {
+    "en": "On 28th July 2022 at Nyagatare Juvenile  prison there was a Launch and handover of the welding workshop .  It was built by Caritas Byumba with the support of Oxfam. It is an event attended by Mgr Papias MUSENGAMANA, DCG of RCS, Director of Oxfam in Rwanda, and other dignitaries.",
+    "fr": "Le 28 juillet 2022 à la prison pour mineurs de Nyagatare, il y a eu un lancement et une remise de l'atelier de soudure. il a été construit par Caritas Byumba avec le soutien d'Oxfam. C'est un événement auquel assistent Mgr Papias MUSENGAMANA, DCG du RCS, Directeur d'Oxfam au Rwanda, et d'autres dignitaires.",
+    "rw": "Kuwa 28 Nyakanga 2022, kuri gereza y'Abana ya Nyagatare habereye igikorwa cyo gutaha Inyubako y'ubusudizi Yubatswe na Caritas Byumba ku nkunga ya Oxfam. Ni igikorwa kitabiriwe na Mgr Papias MUSENGAMANA , DCG wa RCS, Umuyobozi wa Oxfam mu Rwanda n'abandi banyacyubahiro batandukanye"
+  },
+  "image": "2b961997-5084-4152-bce5-2004286a0e08-IMG_2784_1.jpg",
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661410890576"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664439965356"
+    }
+  },
+  "__v": 0
+}]

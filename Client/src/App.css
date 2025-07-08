@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lazy-load-image-background.blur.lazy-load-image-loaded {
+  display: block !important;
+}
+
+.list ul {
+  list-style-position: inside;
+  list-style-type: disc;
+}
+.list ol {
+  list-style-position: inside;
+  list-style-type: decimal;
+}
+.donationMessage a {
+  color: #751E17;
+}

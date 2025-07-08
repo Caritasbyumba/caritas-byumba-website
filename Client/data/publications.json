@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "62ecf19e03d71688cf553643"
+  },
+  "title": {
+    "en": "Through the project \"LET THE CHILDREN COME\" that Caritas Byumba is partnering with World Vision Rwanda,On 29 th August 2022 in Rwamiko Parish there was an outreach event for Children and distribution of Scripture Nurture Materials. ",
+    "fr": "Dans le cadre du projet \"LET THE CHILDREN COME\" que Caritas Byumba est en partenariat avec World Vision Rwanda, le 29 août 2022 dans la paroisse de Rwamiko, il y a eu un événement de sensibilisation pour les enfants et la distribution de matériel d'éducation aux Écritures.",
+    "rw": "Binyuze mumushinga \" MUREKE ABANA BANSANGE\" Caritas Byumba Ifatanya na World vision Rwanda , Kuwa 29 kanama 2022 mu ma santarari  atandukanye ya Paroisse ya Rwamiko habaye igikorwa cyo Kwegera Abana  no kubaha  ibitabo bikubiyemo ibyanditswe bitagatifu."
+  },
+  "description": {
+    "en": "<p>Through the project \"LET THE CHILDREN COME\" that Caritas Byumba is partnering with World Vision Rwanda,On 29 th August 2022 in Rwamiko Parish there was an outreach event for Children and distribution of Scripture Nurture Materials.&nbsp;</p>",
+    "fr": "<p>Dans le cadre du projet \"LET THE CHILDREN COME\" que Caritas Byumba est en partenariat avec World Vision Rwanda, le 29 août 2022 dans la paroisse de Rwamiko, il y a eu un événement de sensibilisation pour les enfants et la distribution de matériel d'éducation aux Écritures.</p>",
+    "rw": "<p>Binyuze mumushinga \" MUREKE ABANA BANSANGE\" Caritas Byumba Ifatanya na World vision Rwanda , Kuwa 29 kanama 2022 mu ma santarari&nbsp;atandukanye ya Paroisse ya Rwamiko habaye igikorwa cyo Kwegera Abana&nbsp;no kubaha&nbsp;ibitabo bikubiyemo ibyanditswe bitagatifu.</p>"
+  },
+  "gallery": [
+    "27603ced-cae9-4b32-9a83-92591f4bd0a2-IMG_3925.jpg",
+    "4a775338-5268-4822-9ea0-489532596c38-IMG_4020.jpg",
+    "e02a4b41-ff87-4eb7-82f4-ade38b387a0d-IMG_4245.jpg",
+    "dd7cbf42-24c4-4394-8ab3-4b22d14d0c94-IMG_4387.jpg"
+  ],
+  "tags": [
+    "disabilities",
+    "Nudor"
+  ],
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659695518299"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664455857928"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ecf3b003d71688cf553646"
+  },
+  "title": {
+    "en": "On 30th August 2022, at Musanze Prison there was an administrative meeting between RCS and Caritas Byumba. Various activities were visited including a workshop Caritas Byumba is building in that prison, the mushroom project and proposed a place where nursery site will be built.",
+    "fr": "\r\nLe 30 août 2022, à la prison de Musanze, il y a eu une réunion administrative entre RCS et Caritas Byumba. Diverses activités ont été visitées, notamment un atelier que Caritas Byumba est en train de construire dans cette prison, le projet de champignons et a proposé un lieu où le site de la pépinière sera construit.",
+    "rw": "\r\nKu wa 30 Kanama 2022,  kuri Gereza ya  Musanze habereye Inama nsuzumabikorwa yahuje RCS na Caritas Byumba. hasuwe ibikorwa bitandukanye Caritas Byumba ikorera muri iyo gereza harimo Ishuri caritas Byumba irimo kubaka muri iyo gereza, umushinga w'ibihumyo , hanarebwa ahazubakwa pépinière"
+  },
+  "description": {
+    "en": "<p>On 30th August 2022, at Musanze Prison there was an administrative meeting between RCS and Caritas Byumba. Various activities were visited including a workshop Caritas Byumba is building in that prison, the mushroom project and proposed a place where nursery site will be built.</p>",
+    "fr": "<p>Le 30 août 2022, à la prison de Musanze, il y a eu une réunion administrative entre RCS et Caritas Byumba. Diverses activités ont été visitées, notamment un atelier que Caritas Byumba est en train de construire dans cette prison, le projet de champignons et a proposé un lieu où le site de la pépinière sera construit.</p>",
+    "rw": "<p><br></p><p>Ku wa 30 Kanama 2022,&nbsp;kuri Gereza ya&nbsp;Musanze habereye Inama nsuzumabikorwa yahuje RCS na Caritas Byumba. hasuwe ibikorwa bitandukanye Caritas Byumba ikorera muri iyo gereza harimo Ishuri caritas Byumba irimo kubaka muri iyo gereza, umushinga w'ibihumyo , hanarebwa ahazubakwa pépinière</p>"
+  },
+  "gallery": [
+    "cc28fb27-e6a0-48cf-bb91-a4d51a274e61-IMG_4488.jpg",
+    "23533381-c43c-40e2-89ac-3142f5ad6f88-IMG_4510.jpg",
+    "eb9ddabc-b222-48a6-8c39-09dd13f49d53-IMG_4549.jpg",
+    "4dfd7814-62b7-4c05-acfa-6441b4ac8dec-IMG_4565.jpg"
+  ],
+  "tags": [
+    "Oxfam",
+    "Nyagatare",
+    "RCS"
+  ],
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659696048357"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664455899834"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ecf53c03d71688cf553649"
+  },
+  "title": {
+    "en": "On 6th september 2022, At Caritas Byumba  gathered the Health Council of caritas Byumba. They looked on the urgent Issues in each health center, sharing ideas on the functioning and interaction between the Management team of COSAs and reviewing the new staff structure .",
+    "fr": "Le 6 septembre 2022, Chez Caritas Byumba a réuni le Conseil de Santé de caritas Byumba. Ils se sont penchés sur les problèmes urgents dans chaque centre de santé, en partageant des idées sur le fonctionnement et l'interaction entre l'équipe de gestion des COSA et en examinant la nouvelle structure du personnel.",
+    "rw": "Kuwa 6 nzeli 2022 kuri Caritas ya diocese ya Byumba hateraniye Inama Y'ubuzima ya Caritas Byumba . Harebewe hamwe Dossiers zihutirwa ziri muri buri kigonderabuzima, bungurana ibitekerezo ku mikorere n'imikoranire hagati ya Titulaires na COSAs ndetse hanareberwa hamwe structure nshyashya"
+  },
+  "description": {
+    "en": "<p>On 6th september 2022, At Caritas Byumba&nbsp;gathered the Health Council of caritas Byumba. They looked on the urgent Issues in each health center, sharing ideas on the functioning and interaction between the Management team of COSAs and reviewing the new staff structure .</p>",
+    "fr": "<p>Le 6 septembre 2022, Chez Caritas Byumba a réuni le Conseil de Santé de caritas Byumba. Ils se sont penchés sur les problèmes urgents dans chaque centre de santé, en partageant des idées sur le fonctionnement et l'interaction entre l'équipe de gestion des COSA et en examinant la nouvelle structure du personnel.</p>",
+    "rw": "<p>Kuwa 6 nzeli 2022 kuri Caritas ya diocese ya Byumba hateraniye Inama Y'ubuzima ya Caritas Byumba . Harebewe hamwe Dossiers zihutirwa ziri muri buri kigonderabuzima, bungurana ibitekerezo ku mikorere n'imikoranire hagati ya Titulaires na COSAs ndetse hanareberwa hamwe structure nshyashya</p>"
+  },
+  "gallery": [
+    "1ea95e8a-28ef-4f9b-898a-77ac92bd2956-IMG_4731.jpg",
+    "77cca00d-a094-4484-9ced-1c6db9902312-IMG_4748.jpg",
+    "c7d7fdfe-f7bb-4408-9948-0d2ba3711f1c-IMG_4769.jpg",
+    "eefe91a6-f12e-46b3-9a76-d811b66dd084-IMG_4785.jpg"
+  ],
+  "tags": [
+    "Oxfam",
+    "Nyagatare",
+    "RCS"
+  ],
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659696444489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664455950324"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ecf61803d71688cf55364c"
+  },
+  "title": {
+    "en": "On 22/09/2022, Caritas Byumba partners including CCOIB and Oxfam conducted a study trip to Mutete for the Biogas and pig project provided by Caritas Byumba in collaboration with Oxfam.",
+    "fr": "Le 22/09/2022, les partenaires de Caritas Byumba, dont CCOIB et Oxfam, ont effectué un voyage d'étude à Mutete pour le projet Biogaz et porc fourni par Caritas Byumba en collaboration avec Oxfam.",
+    "rw": "kuwa 22/09/2022,  Abafatanyabikorwa ba Caritas Byumba barimo CCOIB na Oxfam  bakoreye urugendoshuri i Mutete kumushinga wa Biogas n'ingurube byatanzwe na caritas byumba kubufatanye na Oxfam."
+  },
+  "description": {
+    "en": "<p>On 22/09/2022, Caritas Byumba partners including CCOIB and Oxfam conducted a study trip to Mutete for the Biogas and pig project provided by Caritas Byumba in collaboration with Oxfam.</p>",
+    "fr": "<p>Le 22/09/2022, les partenaires de Caritas Byumba, dont CCOIB et Oxfam, ont effectué un voyage d'étude à Mutete pour le projet Biogaz et porc fourni par Caritas Byumba en collaboration avec Oxfam.</p>",
+    "rw": "<p>kuwa 22/09/2022,&nbsp;Abafatanyabikorwa ba Caritas Byumba barimo CCOIB na Oxfam&nbsp;bakoreye urugendoshuri i Mutete kumushinga wa Biogas n'ingurube byatanzwe na caritas byumba kubufatanye na Oxfam.</p>"
+  },
+  "gallery": [
+    "a178b668-e194-4214-9c8f-d21c0cb59f62-IMG_5367.jpg",
+    "27cd84f0-81fe-4bcb-a98e-63a0f87e7fce-IMG_5420.jpg",
+    "a7f80762-ed59-43c0-844c-191b3200505a-IMG_5454.jpg",
+    "a460ec29-40a6-4de8-a591-7b979a3c8265-IMG_5466.jpg"
+  ],
+  "tags": [
+    "Oxfam",
+    "Nyagatare",
+    "RCS"
+  ],
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659696664210"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664455978504"
+    }
+  },
+  "__v": 0
+}]

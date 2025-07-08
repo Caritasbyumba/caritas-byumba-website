@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62ecf7b603d71688cf55364f"
+  },
+  "title": {
+    "en": "Publications",
+    "fr": "Publications",
+    "rw": "Amakuru"
+  },
+  "description": {
+    "en": "Because without you we would not build much, Caritas Byumba is happy to share with you its news! Through our publications, you are regularly informed about our news, activities, programs, projects, successes, finances. ",
+    "fr": "Parce que sans vous nous ne construirions pas grand chose, Caritas Byumba est heureuse de partager avec vous son actualité ! A travers nos publications, vous êtes régulièrement informé de nos actualités, activités, programmes, projets, réussites, finances.",
+    "rw": "Kuberako tutari kumwe ntabwo twagera kuri  byinshi, Caritas Byumba yishimiye kubagezaho amakuru yayo! Binyuze mu bitabo byacu, Tubagezaho amakuru yacu, Ibikorwa, Gahunda, Imishinga, ibyagezweho, Imari."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659697078623"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663744197608"
+    }
+  },
+  "__v": 0
+}]

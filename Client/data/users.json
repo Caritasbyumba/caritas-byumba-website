@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "name": "Tuyizere Pacifique",
+  "email": "tuyipaccy78@gmail.com",
+  "password": "$2b$10$z093rszX5RaP.6a1seDxU.v1srTRJGBt0lpS6CkqlDOPq7GL1hLyi",
+  "role": "content creator",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656202085554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656202085554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6311d3b2513f128dcf6393a1"
+  },
+  "name": "Dushakimana Noella",
+  "email": "dushakenoella@gmail.com",
+  "password": "$2b$10$B08GsI2tS/xRXm6sxLbpYe7VjpGinF64MuYK8QJZPjtIcrQrkFwJi",
+  "role": "content creator",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662112690590"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662112690590"
+    }
+  },
+  "__v": 0
+}]

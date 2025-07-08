@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62f0d8d1ba1abc45ea56e78b"
+  },
+  "title": {
+    "en": "DONATE TO WHERE IT'S NEEDED MOST ",
+    "fr": "FAITES UN DON LÀ OÙ C'EST LE PLUS NÉCESSAIRE",
+    "rw": "FASHA AHO BIKENEWE CYANE"
+  },
+  "description": {
+    "en": "<p>You can make an immediate lifesaving difference and give hope to children, mothers and fathers in hard times—ensuring that even during the pandemic the most vulnerable people are taken care of.</p>",
+    "fr": "<p>Vous pouvez faire une différence immédiate qui sauve des vies et donner de l'espoir aux enfants, aux mères et aux pères dans les moments difficiles, en veillant à ce que même pendant la pandémie, les personnes les plus vulnérables soient prises en charge.</p>",
+    "rw": "<p>Ushobora kugira icyo uhindura k'ubuzima ugaha icyizere abana, ba nyina na ba se mubihe bigoye - cyane ko mugihe cy'ibyorezo abantu batishoboye cyane bitabwaho.</p>"
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659951313733"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667287659463"
+    }
+  },
+  "__v": 0
+}]

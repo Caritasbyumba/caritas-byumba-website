@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62eb823eb244369863433f25"
+  },
+  "title": {
+    "en": "Our Projects",
+    "fr": "Nos projets",
+    "rw": "Imishinga yacu"
+  },
+  "description": {
+    "en": "Caritas Byumba ensures that the program/project management minimum standards are established and followed by all strucutres, depertments and services. These standards are applied throughout the lifecycle of the program/project and management gates. It also insures that its strategic choices are the core of the program/project management cycle and phases. ",
+    "fr": "Caritas Byumba veille à ce que les normes minimales de gestion de programme/projet soient établies et suivies par toutes les structures, départements et services. Ces normes sont appliquées tout au long du cycle de vie du programme/projet et des portails de gestion. Il s'assure également que ses choix stratégiques sont au cœur du cycle et des phases de gestion du programme/projet.",
+    "rw": "Caritas Byumba yemeza ko gahunda / imicungire yumushinga ibipimo ntarengwa byashyizweho kandi bigakurikirwa na strucutres, depertment na serivisi. Ibipimo ngenderwaho bikoreshwa mubuzima bwose bwa gahunda / umushinga n'amarembo yo kuyobora. Yemeza kandi ko guhitamo kwayo aribwo shingiro rya gahunda / imicungire yimishinga nicyiciro."
+  },
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659601470547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659601470547"
+    }
+  },
+  "__v": 0
+}]

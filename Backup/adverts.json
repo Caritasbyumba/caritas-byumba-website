@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "635fd873b367c8ce24c9eb8d"
+  },
+  "name": {
+    "en": "Made in Rwanda shoes",
+    "fr": "Chaussures fabriquées au Rwanda",
+    "rw": "Inkweto zikorerwa mu Rwanda"
+  },
+  "description": {
+    "en": "<p>These shoes are made by XYZ youth cooperative. The prices range from 5000 RWF to 10000Rwf</p>",
+    "fr": "<p>Ces chaussures sont fabriquées par la coopérative de jeunes XYZ. Les prix vont de 5000 RWF à 10000Rwf</p>",
+    "rw": "<p>Inkweto zakozwe na koperative y'urubyiruko ya XYZ. Ibiciro biri hagati ya 5000 RWF kugeza 10000Rwf</p>"
+  },
+  "gallery": [
+    "73dec519-52f8-436c-bb87-89e2eb6503ca-WhatsApp Image 2022-10-31 at 3.49.56 PM(4).jpeg",
+    "59d9e669-530a-4a9a-a7f0-7af53613050b-WhatsApp Image 2022-10-31 at 3.49.56 PM(3).jpeg",
+    "598c3e42-1b8e-4efd-afa4-2a0023b2857f-WhatsApp Image 2022-10-31 at 3.49.56 PM(2).jpeg",
+    "91dd3ebf-09d2-4f75-9058-7a1fa8f1d8fd-WhatsApp Image 2022-10-31 at 3.49.56 PM(1).jpeg",
+    "0aa06e57-9d20-4454-9a71-a887b9962fd2-WhatsApp Image 2022-10-31 at 3.49.56 PM.jpeg"
+  ],
+  "isActive": true,
+  "createdBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "updatedBy": {
+    "$oid": "62b7a365c0330ed073ba6844"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667225715373"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667225715373"
+    }
+  },
+  "__v": 0
+}]
