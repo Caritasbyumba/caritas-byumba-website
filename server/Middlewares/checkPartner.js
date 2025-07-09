@@ -1,5 +1,5 @@
 import Joi from 'joi';
-import validationHelper from '../helpers/ValidationHelper.js';
+import validationHelper from '../Helpers/ValidationHelper.js';
 
 const checkPartner = (req, res, next) => {
   const partnerSchemas = Joi.object().keys({

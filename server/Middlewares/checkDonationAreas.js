@@ -1,5 +1,5 @@
 import Joi from 'joi';
-import validationHelper from '../helpers/ValidationHelper.js';
+import validationHelper from '../Helpers/ValidationHelper.js';
 
 const checkDonationAreas = (req, res, next) => {
   const donationAreasSchemas = Joi.object().keys({
