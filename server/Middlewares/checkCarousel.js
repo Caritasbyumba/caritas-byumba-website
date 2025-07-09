@@ -1,5 +1,5 @@
 import Joi from 'joi';
-import validationHelper from '../Helpers/ValidationHelper';
+import validationHelper from '../Helpers/ValidationHelper.js';
 
 const checkCarousel = (req, res, next) => {
   const carouselSchemas = Joi.object().keys({
