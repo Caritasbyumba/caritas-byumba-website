@@ -34,28 +34,28 @@ dotenv.config();
 const app = express();
 
 // CORS Middleware
-    const allowedOrigins = [
-      'https://caritasbyumba.org', 
-      'https://www.caritasbyumba.org',
-      'http://localhost:3000']
+const allowedOrigins = [
+  'https://caritasbyumba.org',
+  'https://www.caritasbyumba.org',
+  'http://localhost:3000']
 
 app.use(
-        cors({
-          credentials: true,
-          origin: function (origin, callback) {
-            // Allow requests with no origin (like mobile apps or curl requests)
-            if (!origin) return callback(null, true);
-            
-            if (allowedOrigins.indexOf(origin) === -1) {
-              const msg = `The CORS policy for this site does not allow access from ${origin}`;
-              return callback(new Error(msg), false);
-            }
-            return callback(null, true);
-          },
-          optionsSuccessStatus: 200,
-        })
-      );
-  
+  cors({
+    credentials: true,
+    origin: function (origin, callback) {
+      // Allow requests with no origin (like mobile apps or curl requests)
+      if (!origin) return callback(null, true);
+
+      if (allowedOrigins.indexOf(origin) === -1) {
+        const msg = `The CORS policy for this site does not allow access from ${origin}`;
+        return callback(new Error(msg), false);
+      }
+      return callback(null, true);
+    },
+    optionsSuccessStatus: 200,
+  })
+);
+
 // Logger Middleware
 app.use(morgan('dev'));
 // access body request
@@ -68,9 +68,11 @@ const db = process.env.DATABASE_URL_ATLAS;
 mongoose.set('strictQuery', false); // Prepare for Mongoose 7
 
 // Connect to Mongo
-mongoose.connect(db, {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/caritas-byumba', {
   useNewUrlParser: true,
+  authSource: 'admin',
   useUnifiedTopology: true,
+  w: 'majority'
 })
 .then(() => console.log('MongoDB Connected Successfully'))
 .catch((err) => {
@@ -86,9 +88,52 @@ mongoose.connection.on('connected', () => {
 mongoose.connection.on('error', (err) => {
   console.error('Mongoose connection error:', err);
 });
+
+// ADD THIS ROOT ROUTE - This fixes the 404 error
+app.get('/', (req, res) => {
+  res.send(`
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Caritas Byumba Website</title>
+      <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f5f5f5; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; }
+        .status { background: #e8f5e8; padding: 15px; border-radius: 5px; margin: 20px 0; }
+        .api-link { background: #e3f2fd; padding: 10px; border-radius: 5px; margin: 10px 0; }
+        a { color: #1976d2; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <h1>Welcome to Caritas Byumba Website</h1>
+        <div class="status">
+          <strong>✅ Server Status:</strong> Running successfully<br>
+          <strong>✅ Database:</strong> ${mongoose.connection.readyState === 1 ? 'Connected' : 'Disconnected'}<br>
+          <strong>✅ Environment:</strong> ${process.env.NODE_ENV || 'development'}
+        </div>
+        
+        <div class="api-link">
+          <strong>API Endpoint:</strong> <a href="/api/">/api/</a>
+        </div>
+        
+        <p>This is the backend API for Caritas Byumba Website. The API is running and ready to serve requests.</p>
+        
+        <p>For API documentation and available endpoints, please visit: <a href="/api/">/api/</a></p>
+      </div>
+    </body>
+    </html>
+  `);
+});
+
 app.get('/api/', (req, res) =>
   successResponse(res, 200, 'WELCOME TO CARITAS BYUMBA WEBSITE BACKEND')
 );
+
 app.use('/api/users/', userRoutes);
 app.use('/api/carousels/', carouselRoutes);
 app.use('/api/moreonus/', moreonusRoutes);
@@ -118,6 +163,7 @@ app.use((req, res) => {
   console.warn(`Route not found: ${req.method} ${req.originalUrl}`);
   errorResponse(res, 404, 'The requested route was not found');
 });
+
 // Global Error Handler
 app.use((err, req, res, next) => {
   console.error('Global Error Handler:', err.stack);
@@ -125,6 +171,5 @@ app.use((err, req, res, next) => {
     error: process.env.NODE_ENV === 'development' ? err.message : undefined
   });
 });
-
 
 export default app;
