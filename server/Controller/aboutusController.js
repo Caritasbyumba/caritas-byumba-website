@@ -1,5 +1,5 @@
 import { errorResponse, successResponse } from '../Helpers/responses.js';
-import Aboutus from '../models/Aboutus.js';
+import Aboutus from '../Models/Aboutus.js';
 
 export const createAboutus = async (req, res) => {
   try {
