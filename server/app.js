@@ -64,20 +64,28 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 // DB Config
-const db = process.env.DATABASE_URL_ATLAS;
-mongoose.set('strictQuery', false); // Prepare for Mongoose 7
+const MONGODB_URI = process.env.DATABASE_URL_ATLAS || process.env.MONGODB_URI;
+
+if (!MONGODB_URI) {
+  console.error('❌ No MongoDB connection string found in environment variables');
+  process.exit(1);
+}
+
 
 // Connect to Mongo
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/caritas-byumba', {
+mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
-  authSource: 'admin',
   useUnifiedTopology: true,
-  w: 'majority'
+  authSource: 'admin',
+  retryWrites: true,
+  w: 'majority',
+  serverSelectionTimeoutMS: 5000,
+  socketTimeoutMS: 45000
 })
-.then(() => console.log('MongoDB Connected Successfully'))
-.catch((err) => {
-  console.error('MongoDB Connection Error:', err);
-  process.exit(1); // Exit process on DB connection failure
+.then(() => console.log('✅ MongoDB Connected Successfully'))
+.catch(err => {
+  console.error('❌ MongoDB Connection Error:', err.message);
+  console.log('Connection string used:', MONGODB_URI.replace(/mongodb\+srv:\/\/[^:]+:[^@]+@/, 'mongodb+srv://USERNAME:PASSWORD@'));
 });
 
 // Add connection event listeners
